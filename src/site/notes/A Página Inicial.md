@@ -7,49 +7,49 @@
 # Hub
 > [!cards|7]
  **[[📝 Session Note Database\| Session Notes]]**
-> ![[SessionNotes.png\|SessionNotes.png]]
+> ![SessionNotes.png](/img/user/z_Assets/Hub/SessionNotes.png)
 >
 > **[[🎊Party Database\| Parties]]**
-> ![[Parties.png\|Parties.png]]
+> ![Parties.png](/img/user/z_Assets/Hub/Parties.png)
 > 
 > **[[🧙‍♂️ Player Database\| Players]]**
-> ![[Players.png\|Players.png]]
+> ![Players.png](/img/user/z_Assets/Hub/Players.png)
 > 
 > **[[🧞‍♀️ Deity Database\| Deities]]**
-> ![[Deities.png\|Deities.png]]
+> ![Deities.png](/img/user/z_Assets/Hub/Deities.png)
 > 
 > **[[👨‍👩‍👧‍👦 NPC Database\| NPCs]]**
-> ![[NPCs.png\|NPCs.png]]
+> ![NPCs.png](/img/user/z_Assets/Hub/NPCs.png)
 > 
 > **[[🔰 Group Database\| Groups]]**
-> ![[Groups.png\|Groups.png]]
+> ![Groups.png](/img/user/z_Assets/Hub/Groups.png)
 > 
 > **[[🗺️ Kingdoms Database\| Kingdoms]]**
-> ![[Kingdoms.png\|Kingdoms.png]]
+> ![Kingdoms.png](/img/user/z_Assets/Hub/Kingdoms.png)
 > 
 > **[[🌁 Settlement Database\| Settlements]]**
-> ![[Settlements.png\|Settlements.png]]
+> ![Settlements.png](/img/user/z_Assets/Hub/Settlements.png)
 > 
 > **[[🏰Landmark Database\| Landmarks]]**
-> ![[Landmarks.png\|Landmarks.png]]
+> ![Landmarks.png](/img/user/z_Assets/Hub/Landmarks.png)
 > 
 > **[[❓ POI Database\| Points of Interest]]**
-> ![[POIs.png\|POIs.png]]
+> ![POIs.png](/img/user/z_Assets/Hub/POIs.png)
 >
 > **[[💲 Shop & Service Database\| Shops & Services]]**
-> ![[ShopsServices.png\|ShopsServices.png]]
+> ![ShopsServices.png](/img/user/z_Assets/Hub/ShopsServices.png)
 >
 > **[[📕 Literature Database\| Literature]]**
-> ![[Literature.png\|Literature.png]]
+> ![Literature.png](/img/user/z_Assets/Hub/Literature.png)
 >
 > **[[✉️ Letter Database\| Letters]]**
-> ![[Letters.png\|Letters.png]]
+> ![Letters.png](/img/user/z_Assets/Hub/Letters.png)
 > 
 > **[[❗ Quest Database\| Quests]]**
-> ![[Quests.png\|Quests.png]]
+> ![Quests.png](/img/user/z_Assets/Hub/Quests.png)
 > 
 > **[[Scratch  Notes\|Scratch  Notes]]**
-> ![[RandomNotes.png\|RandomNotes.png]]
+> ![RandomNotes.png](/img/user/z_Assets/Hub/RandomNotes.png)
 >
 
 ## To Do
