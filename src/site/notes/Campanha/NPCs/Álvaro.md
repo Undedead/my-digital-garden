@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-23T22:00:47.014-03:00"}
+{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:08:45.778-03:00"}
 ---
 
 > [!infobox]+
@@ -30,16 +30,16 @@
 
 ## Objetivos
 ### ???
-
+>
 ## Relações
 ### Família: ???
-
+>
 ### Amigos: [[Campanha/NPCs/Capim Cidreira\|Capim Cidreira]], Anya e Babilônica
-
+>
 ### Rivais: ???
-
+>
 ### Conhecidos: ???
-
+>
 ## História
 Conheceu o grupo em uma clareira nos bosques uivantes e rapidamente fez uma amizade com eles, presenteou Capim
 
