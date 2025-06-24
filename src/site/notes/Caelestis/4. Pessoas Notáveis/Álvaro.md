@@ -1,12 +1,60 @@
 ---
-{"dg-publish":true,"permalink":"/Caelestis/4. Pessoas Notáveis/Álvaro/","updated":"2025-06-22T08:22:54.517-03:00"}
+{"dg-publish":true,"permalink":"/Caelestis/4. Pessoas Notáveis/Álvaro/","updated":"2025-06-23T21:33:17.283-03:00"}
 ---
 
-# Nome: Álvaro 
+> [!infobox]+
+> # Álvaro (`=this.pronouns`)
+> ![[PlaceholderImage.png\|PlaceholderImage.png]]
+> ###### Bio
+>  |
+> ---|---|
+> **Ancestry** | `=this.ancestry` |
+> **Heritage** | `=this.heritage` |
+> **Sex** | `=this.gender` |
+> **Age** | `=this.age` |
+> **Sexuality** | `=this.sexuality` |
+> **Alignment** | `=this.alignment` |
+> **Condition** | `=this.condition` |
+> ###### Info
+>  |
+> ---|---|
+> **Aliases** | `=this.aliases` |
+> **Occupations** | `=this.occupation` |
+> **Groups** | `=link(this.AssociatedGroup)` |
+> **Religions** | `=link(this.AssociatedReligion)` |
+> **Owned Properties** | `=link(this.OwnedLocations)` |
+> **Current Location** | `=link(this.location)` |
 
-## BIO
+# **Álvaro** <span style="font-size: medium">(`=this.occupation`)</span>
+> [!metadata|overview]- Overview 
+> TBD
 
-- **Espécie:** Elfo Silvestre 
-- **Passado:** ???
-- **Motivação:** ???
-- **Aparência:** 
+## Aspirations
+### Example
+
+
+## Acquaintances
+### Family:
+
+
+### Friends:
+
+
+### Rivals:
+
+
+### Met:
+
+
+## History
+
+;;; hidden
+## DM
+### Plot Hooks
+
+
+### Hidden Details
+
+
+### General Notes
+;;;
