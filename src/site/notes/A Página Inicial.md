@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A Página Inicial/","tags":["gardenEntry"],"updated":"2025-06-23T22:06:01.616-03:00"}
+{"dg-publish":true,"permalink":"/A Página Inicial/","tags":["gardenEntry"],"updated":"2025-06-24T15:34:26.645-03:00"}
 ---
 
 # Hub
->[!cards|5]
+>[!cards|3]
 >**[[Lore/1. Panteão/1. Panteão\|Deidades]]**
 >![deusa genérica.png](/img/user/Recursos/Imagens/deusa%20gen%C3%A9rica.png)
 >
