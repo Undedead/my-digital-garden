@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Caelestis/4. Pessoas Notáveis/Álvaro/","updated":"2025-06-23T21:33:17.283-03:00"}
+{"dg-publish":true,"permalink":"/Caelestis/4. Pessoas Notáveis/Álvaro/","updated":"2025-06-23T21:34:41.084-03:00"}
 ---
 
 > [!infobox]+
@@ -48,13 +48,4 @@
 
 ## History
 
-;;; hidden
-## DM
-### Plot Hooks
 
-
-### Hidden Details
-
-
-### General Notes
-;;;
