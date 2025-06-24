@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:26:47.322-03:00"}
+{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:28:39.166-03:00"}
 ---
 
 > [!infobox]+
 > # [[Campanha/NPCs/Álvaro\|Álvaro]] (ele/dele)
-> ![alvaro.png](/img/user/Recursos/Imagens/alvaro.png)
+> ![[PlaceholderImage.png\|PlaceholderImage.png]]
 > ###### Bio
 >
 > 
@@ -32,15 +32,22 @@
 
 ### ???
 ## Relações
-**<br> **
+
 ### Família: ???
- **<br> **
+
+<br>
+
 ### **Amigos:** [[Campanha/NPCs/Capim Cidreira\|Capim Cidreira]], Anya e Babilônica
-**<br> **
+
+<br>
+
 ### **Rivais:** ???
-**<br> **
+
+<br>
+
 ### **Conhecidos:** ???
 
+<br>
 
 ## História
 Conheceu o grupo em uma clareira nos bosques uivantes e rapidamente fez uma amizade com eles, presenteou Capim
