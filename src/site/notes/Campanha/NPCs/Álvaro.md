@@ -1,28 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:28:39.166-03:00"}
+{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:31:25.771-03:00"}
 ---
 
 > [!infobox]+
 > # [[Campanha/NPCs/Álvaro\|Álvaro]] (ele/dele)
-> ![[PlaceholderImage.png\|PlaceholderImage.png]]
+>![alvaro 1.png](/img/user/Recursos/Imagens/alvaro%201.png)
 > ###### Bio
 >
 > 
-> **Ancestralidade** Elfo Silvestre
-> **Gênero** Masculino
-> **Idade** ???
-> **Sexualidade** ???
-> **Alinhamento** ???
-> **Condição** Vivo
+> **Ancestralidade:** Elfo Silvestre
+> **Gênero:** Masculino
+> **Idade:** ???
+> **Sexualidade:** ???
+> **Alinhamento:** ???
+> **Status:** Vivo
 > ###### Info
 > 
 > 
-> **Apelidos** -
-> **Profissão** ???
-> **Grupos** ???
-> **Religião** ???
-> **Propriedades** ???
-> **Localização Atual** Bosques Uivantes
+> **Títulos:** -
+> **Profissão:** ???
+> **Grupos:** ???
+> **Religião:** ???
+> **Propriedades:** ???
+> **Localização Atual:** Bosques Uivantes
 
 # **Álvaro** <span style="font-size: medium"></span>
 > [!metadata|overview]- Visão Geral
@@ -33,7 +33,7 @@
 ### ???
 ## Relações
 
-### Família: ???
+### **Família:** ???
 
 <br>
 
@@ -50,6 +50,6 @@
 <br>
 
 ## História
-Conheceu o grupo em uma clareira nos bosques uivantes e rapidamente fez uma amizade com eles, presenteou Capim
+Conheceu o grupo em uma clareira nos bosques uivantes e rapidamente fez uma amizade com eles, presenteou Capim com um amuleto mágico.
 
 
