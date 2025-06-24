@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:10:35.644-03:00"}
+{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:22:27.349-03:00"}
 ---
 
 > [!infobox]+
@@ -31,14 +31,12 @@
 ## Objetivos
 
 ### ???
-
-
 ## Relações
 
 ### Família: ???
 
 
-### Amigos: [[Campanha/NPCs/Capim Cidreira\|Capim Cidreira]], Anya e Babilônica
+### <font size=6><b>Amigos:</b></font> [[Campanha/NPCs/Capim Cidreira\|Capim Cidreira]], Anya e Babilônica
 
 
 ### Rivais: ???
