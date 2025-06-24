@@ -1,29 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/A Página Inicial/","tags":["gardenEntry"],"updated":"2025-06-23T20:40:34.268-03:00"}
+{"dg-publish":true,"permalink":"/A Página Inicial/","tags":["gardenEntry"],"updated":"2025-06-23T21:26:53.262-03:00"}
 ---
 
 # Hub
->[!cards|dataview 7]
+>[!cards|5]
 >**[[Caelestis/1. Panteão/1. Panteão\|Deidades]]**
->![gods.jpg](/img/user/gods.jpg)
-
-## To Do
-> [!column|2 no-title]
->> [!metadata] Short Term
+>![deusa genérica.png](/img/user/Recursos/Imagens/deusa%20gen%C3%A9rica.png)
+>
+>**[[Caelestis/2. Facções e Grupos/2. Facções e Grupos\|Facções e Grupos]]**
+>![paladinos genéricos 2.png](/img/user/Recursos/Imagens/paladinos%20gen%C3%A9ricos%202.png)
+>
+>**[[Caelestis/3. Cultura/3. Cultura\|Cultura]]**
+>![paladinos genéricos 2.png](/img/user/Recursos/Imagens/paladinos%20gen%C3%A9ricos%202.png)
+>
+>**[[Caelestis/4. Pessoas Notáveis/4. Pessoas Notáveis\|Pessoas Notáveis]]**
+>![Zesfryn.png](/img/user/Recursos/Imagens/Zesfryn.png)
 >
 >
->> [!metadata] Long Term
+>
+>**[[Caelestis/5. Bestiário/5. Bestiário\|Bestiário]]**
+>![paladinos genéricos 1.png](/img/user/Recursos/Imagens/paladinos%20gen%C3%A9ricos%201.png)
 >
 >
-
-## Random Notes
-> [!cards|dataview 7] **Party**
->```dataview
-> TABLE WITHOUT ID
->     "<span style='display: block; text-align: center; margin-bottom: 5px;'>" + link(file.link, Title) + "</span>" AS Title,
->	embed(art) AS "Art"
-> WHERE contains(NoteIcon, "Character") OR contains(NoteIcon, "Settlement") OR contains(NoteIcon, "Deity") OR contains(NoteIcon, "Kingdom") OR contains(NoteIcon, "Landmark") OR contains(NoteIcon, "POI") OR contains(NoteIcon, "Shop") OR contains(NoteIcon, "Group") OR contains(NoteIcon, "Literature") OR contains(NoteIcon, "Letter") OR contains(NoteIcon, "Quest") OR contains(NoteIcon, "SideQuest")
-FLATTEN [ [(seed) => (seed * 1103515245 + 12345) % 2147483648]] AS random
-FLATTEN [number(dateformat(date("now"), "x"))] AS seed
-SORT random[0](seed + file.size)
-LIMIT 14
