@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:26:08.594-03:00"}
+{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:26:47.322-03:00"}
 ---
 
 > [!infobox]+
 > # [[Campanha/NPCs/Álvaro\|Álvaro]] (ele/dele)
-> ![[PlaceholderImage.png\|PlaceholderImage.png]]
+> ![alvaro.png](/img/user/Recursos/Imagens/alvaro.png)
 > ###### Bio
 >
 > 
