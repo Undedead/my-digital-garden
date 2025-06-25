@@ -1,6 +1,55 @@
 ---
-{"dg-publish":true,"permalink":"/Campanha/NPCs/Capim Cidreira/","updated":"2025-06-15T19:42:00.049-03:00"}
+{"dg-publish":true,"permalink":"/Campanha/NPCs/Capim Cidreira/","updated":"2025-06-25T07:55:14.976-03:00"}
 ---
 
-Gnomo bárbaro. Nascido na vila Tisana, onde todos os seus habitantes tinham nomes referentes a chá. Vivia lá com sua irmã chamada Eva Cidreira e seus pais, Melissa e Hortelão. Capim conta a todos que ele saiu de sua vila para viver na cidade grande por opção, para ganhar dinheiro e melhorar a condição da sua família que o espera, mas na realidade quando ele tinha 12 anos sua vila foi atacada por um jovem dragão vermelho, que dizimou completamente todos os habitantes menos Capim, que ficou gravemente ferido, ele tentou lutar contra o dragão o ignorou por conta de sua fraqueza (Capim não consegue fazer magia nem as básicas como todo outro gnomo consegue) e deixou ele para morrer. No futuro da campanha o grupo encontra o mesmo dragão, em um combate extremamente difícil, Capim aparentemente morre, mas depois retorna fundido com o dragão em uma espécie de centauro dragão empesteado e se torna o campeão do Deus Genocida. 
-Nome dragão do capim Volknir
+> [!infobox]+
+> # [[Campanha/NPCs/Capim Cidreira\|Capim Cidreira]] (ele/dele)
+>![unnamed.png](/img/user/Recursos/Imagens/unnamed.png)
+> ###### Bio
+>
+> 
+> **Espécie:** Gnomo
+> **Gênero:** Masculino
+> **Idade:** 27
+> **Sexualidade:** ???
+> **Alinhamento:** Neutro e Bom
+> **Status:** Vivo
+> ###### Info
+> 
+> 
+> **Títulos:** -
+> **Profissão:** Guarda
+> **Grupos:** ???
+> **Religião:** ???
+> **Propriedades:** ???
+> **Localização Atual:** [[Lore/0. O Mundo/Geografia/Vilarejos/Morrinhos\|Morrinhos]]
+
+# **Capim Cidreira** <span style="font-size: medium"></span>
+> [!metadata|overview]- Visão Geral
+> 
+
+## Objetivos
+
+### ???
+## Relações
+
+### **Família:**  Hortelão (pai) , Melissa (mãe) e Erva Cidreira (irmã).
+
+<br>
+
+### **Amigos:** Anya, Babilônica e [[Campanha/NPCs/Álvaro\|Álvaro]]
+
+<br>
+
+### **Rivais:** ???
+
+<br>
+
+### **Conhecidos:** ???
+
+<br>
+
+## História
+Nascido na vila Tisana, onde todos os seus habitantes tinham nomes referentes a chá. Vivia lá com sua irmã chamada Eva Cidreira e seus pais, Melissa e Hortelão. Capim conta a todos que ele saiu de sua vila para viver na cidade grande por opção, para ganhar dinheiro e melhorar a condição da sua família que o espera.
+
+

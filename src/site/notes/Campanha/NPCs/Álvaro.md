@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-24T15:31:25.771-03:00"}
+{"dg-publish":true,"permalink":"/Campanha/NPCs/Álvaro/","updated":"2025-06-25T07:55:22.249-03:00"}
 ---
 
 > [!infobox]+
@@ -8,7 +8,7 @@
 > ###### Bio
 >
 > 
-> **Ancestralidade:** Elfo Silvestre
+> **Espécie:** Elfo Silvestre
 > **Gênero:** Masculino
 > **Idade:** ???
 > **Sexualidade:** ???
