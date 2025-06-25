@@ -1,5 +1,0 @@
----
-{"dg-publish":true,"permalink":"/Campanha/NPCs/Zesfryn/","updated":"2025-06-22T08:12:28.244-03:00"}
----
-
-Drow warlock. Seu patrono é uma criatura congelada no oceano gélido. Sua mãe era adepta da deusa [[Lore/1. Panteão/Dogmas/Filian\|Filian]], Zesfryn viu sua mãe ser morta pelos druidas extremistas que caçavam os adoradores da deusa, em um momento de ódio e desejo por vingança Zesfryn fez um pacto sem saber com a criatura dormente que permitiu que ela matasse os assassinos de sua mãe, porém a grande quantidade de magia cósmica corrompeu seu corpo criando sequelas como seus olhos. Ela é uma escritora e historiadora relativamente famosa que conta histórias sobre criaturas e lendas antigas, algumas que ela aprendeu com sua mãe, que quando jovem explorou o mundo e aprendeu muito sobre a história de [[Lore/0. O Mundo/Planetas/Caelestis\|Caelestis]].
