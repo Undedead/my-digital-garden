@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/A Calamidade/","tags":["gardenEntry"],"updated":"2025-08-07T22:32:06.520-03:00"}
+{"dg-publish":true,"permalink":"/A Calamidade/","tags":["gardenEntry"],"updated":"2025-08-07T22:38:36.640-03:00"}
 ---
 
 
-![Calamidade.png](/img/user/Calamidade.png)
+   **$\quad$**  ![Calamidade.png](/img/user/Calamidade.png)
 
 **$\quad$** Na era pré-calamidade, um [[O Corpo\|corpo]] emergiu do cosmo. O cadáver celestial se direcionava ao planeta em rota de colisão e sua chegada instaurou caos. Guerras estouraram, indivíduos de todos os cantos do globo tiveram sonhos com a falecida entidade, sonhos estes que trouxeram uma incessante fome e desejo pela carne do ser extraplanar. Estes indivíduos, conhecidos como "[[Deuses Apoteóticos\|sonhadores]]", correram para serem os primeiros a examinarem o corpo que caiu no extremo norte do planeta.
 
