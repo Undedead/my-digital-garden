@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/A Calamidade/","tags":["gardenEntry"],"updated":"2025-08-07T22:42:05.270-03:00"}
+{"dg-publish":true,"permalink":"/A Calamidade/","tags":["gardenEntry"]}
 ---
 
 
